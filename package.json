@@ -1,6 +1,6 @@
 {
   "name": "changesets-experiment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "git@github.com:darrellwarde/changesets-experiment.git",
   "author": "Darrell Warde <darrell.warde@neotechnology.com>",
