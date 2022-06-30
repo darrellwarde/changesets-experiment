@@ -1,0 +1,11 @@
+{
+  "name": "changesets-experiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:darrellwarde/changesets-experiment.git",
+  "author": "Darrell Warde <darrell.warde@neotechnology.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@changesets/cli": "^2.23.0"
+  }
+}
