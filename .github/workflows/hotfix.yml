@@ -27,6 +27,7 @@ jobs:
       - name: Create Release Pull Request
         uses: changesets/action@v1
         with:
+          title: changesets for branch `main`
           version: yarn changeset version --since main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
